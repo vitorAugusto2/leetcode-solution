@@ -11,4 +11,4 @@ containing the source code and a README.md file that provides a description, inc
 
 |  #  | Title                   | Difficulty    |
 |-----|-------------------------| ------------- |
-| 3110| [3110. Score of a String](https://github.com/vitorAugusto2/leetcode-solution/tree/main/problems/3110.%20Score%20of%20a%20String) | Easy          |
+| 3110| [Score of a String](https://github.com/vitorAugusto2/leetcode-solution/tree/main/problems/3110.%20Score%20of%20a%20String) | Easy          |
