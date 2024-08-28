@@ -5,7 +5,7 @@ containing the source code and a README.md file that provides a description, inc
 
 ## Algorithms
 
-[String](https://github.com/vitorAugusto2/leetcode-solution/tree/main?tab=readme-ov-file#string)
+* [String](https://github.com/vitorAugusto2/leetcode-solution/tree/main?tab=readme-ov-file#string)
 
 ### String
 
