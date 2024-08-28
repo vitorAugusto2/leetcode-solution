@@ -3,7 +3,7 @@ This repository contains my solutions to LeetCode problems, covering various top
 
 The repository is organized as follows:
 
-```python 
+``` python 
     leetcode-solution
     │
     ├── easy
@@ -16,13 +16,13 @@ The repository is organized as follows:
     │   ├── topics
     │   │   ├── problems
     │   │   │   ├── number_problem.py
-    │   │   │   └── readme.md
+    │   │   │   └── README.md
     │
     └── hard
         ├── topics
         │   ├── problems
         │   │   ├── number_problem.py
-        │   │   └── readme.md
+        │   │   └── README.md
 ```
 
 Each difficulty level ("easy", "intermediate", and "hard") has folders organized by specific topics. Within each topic 
