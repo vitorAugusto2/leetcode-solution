@@ -1,5 +1,5 @@
 # Leetcode solutions
-This repository contains my solutions to LeetCode problems, covering various topics in algorithms and data structures.
+This repository contains my solutions to LeetCode problems, covering various topics in data structures and algorithms.
 
 The repository is organized as follows:
 
