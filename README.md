@@ -3,7 +3,7 @@
 This repository contains my Python solutions to LeetCode problems, covering various topics in data structures and algorithms. Each solution is composed of a .py file 
 containing the source code and a README.md file that provides a description, including an analysis of time and space complexity.
 
-## Algoritmos
+## Algorithms
 
 [String](https://github.com/vitorAugusto2/leetcode-solution/tree/main?tab=readme-ov-file#string)
 
