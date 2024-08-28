@@ -1,8 +1,7 @@
 # LeetCode Solutions
 
-Este repositório contém minhas soluções em Python para problemas do LeetCode, abrangendo diversos tópicos em estruturas de dados 
-e algoritmos. Cada solução é composta por um arquivo .py contendo o código-fonte e um arquivo README.md que oferece uma 
-descrição, incluindo a análise da complexidade de tempo e espaço.
+This repository contains my Python solutions to LeetCode problems, covering various topics in data structures and algorithms. Each solution is composed of a .py file 
+containing the source code and a README.md file that provides a description, including an analysis of time and space complexity.
 
 ## Algoritmos
 
