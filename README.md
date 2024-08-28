@@ -11,4 +11,4 @@ descrição, incluindo a análise da complexidade de tempo e espaço.
 
 |  #  | Title                   | Difficulty    |
 |-----|-------------------------| ------------- |
-| 3110| 3110. Score of a String | Easy          |
+| 3110| [3110. Score of a String](https://github.com/vitorAugusto2/leetcode-solution/tree/main/problems/3110.%20Score%20of%20a%20String) | Easy          |
