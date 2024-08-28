@@ -5,7 +5,8 @@ e algoritmos. Cada solução é composta por um arquivo .py contendo o código-f
 descrição, incluindo a análise da complexidade de tempo e espaço.
 
 ## Algoritmos
-*[String](#string)
+
+[String](https://github.com/vitorAugusto2/leetcode-solution/tree/main?tab=readme-ov-file#string)
 
 ### String
 
