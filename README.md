@@ -11,6 +11,7 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 
 ### String
 
-|  #  | Title                   | Difficulty    |
-|-----|-------------------------| ------------- |
-| 3110| [Score of a String](https://github.com/vitorAugusto2/leetcode-solution/tree/main/problems/3110.%20Score%20of%20a%20String) | Easy          |
+|  #   | Title                   | Difficulty    |
+|------|-------------------------| ------------- |
+| 3110 | [Score of a String](https://github.com/vitorAugusto2/leetcode-solution/tree/main/problems/3110.%20Score%20of%20a%20String) | Easy          |
+| 2011 | [Final Value of Varible After Performing Operations](https://github.com/vitorAugusto2/leetcode-solution/tree/main/problems/2011.%20Final%20Value%20of%20Varible%20After%20Performing%20Operations) | Easy |
