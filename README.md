@@ -1,4 +1,5 @@
 # LeetCode Solutions
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 This repository contains my Python solutions to LeetCode problems, covering various topics in data structures and algorithms. Each solution is composed of a .py file 
 containing the source code and a README.md file that provides a description, including an analysis of time and space complexity
