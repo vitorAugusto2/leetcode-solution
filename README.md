@@ -13,6 +13,9 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 
 |  #   | Title                   | Difficulty    |
 |------|-------------------------| ------------- |
-| 771  | [Jewels and Stoneshttps](//github.com/vitorAugusto2/leetcode-solution/tree/main/problems/771.%20Jewels%20and%20Stones)   | Easy |
-| 3110 | [Score of a String](https://github.com/vitorAugusto2/leetcode-solution/tree/main/problems/3110.%20Score%20of%20a%20String) | Easy          |
+| 771  | [Jewels and Stoneshttps](https://github.com/vitorAugusto2/leetcode-solution/tree/main/problems/771.%20Jewels%20and%20Stones)   | Easy |
+| 1108 | [Defanging an IP Address](https://github.com/vitorAugusto2/leetcode-solution/tree/main/problems/1108.%20Defanging%20an%20IP%20Address) | Easy |
 | 2011 | [Final Value of Varible After Performing Operations](https://github.com/vitorAugusto2/leetcode-solution/tree/main/problems/2011.%20Final%20Value%20of%20Varible%20After%20Performing%20Operations) | Easy |
+| 3110 | [Score of a String](https://github.com/vitorAugusto2/leetcode-solution/tree/main/problems/3110.%20Score%20of%20a%20String) | Easy          |
+| 3146 | [Permutation Difference between Two Strings](https://github.com/vitorAugusto2/leetcode-solution/tree/main/problems/3146.%20Permutation%20Difference%20between%20Two%20Strings) | Easy |
+
