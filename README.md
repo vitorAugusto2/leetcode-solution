@@ -16,7 +16,10 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 |------|-------------------------| ------------- |
 | 771  | [Jewels and Stoneshttps](https://github.com/vitorAugusto2/leetcode-solution/tree/main/problems/771.%20Jewels%20and%20Stones)   | Easy |
 | 1108 | [Defanging an IP Address](https://github.com/vitorAugusto2/leetcode-solution/tree/main/problems/1108.%20Defanging%20an%20IP%20Address) | Easy |
+| 1678 | [Goal Parser Interpretation](https://github.com/vitorAugusto2/leetcode-solution/tree/main/problems/1678.%20Goal%20Parser%20Interpretation) | Easy |
 | 2011 | [Final Value of Varible After Performing Operations](https://github.com/vitorAugusto2/leetcode-solution/tree/main/problems/2011.%20Final%20Value%20of%20Varible%20After%20Performing%20Operations) | Easy |
+| 2114 | [Maximum Number of Words Found in Sentences](https://github.com/vitorAugusto2/leetcode-solution/tree/main/problems/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences) | Easy |
+| 2942 | [Find Words Containing Character](https://github.com/vitorAugusto2/leetcode-solution/tree/main/problems/2942.%20Find%20Words%20Containing%20Character) | Easy |
 | 3110 | [Score of a String](https://github.com/vitorAugusto2/leetcode-solution/tree/main/problems/3110.%20Score%20of%20a%20String) | Easy          |
 | 3146 | [Permutation Difference between Two Strings](https://github.com/vitorAugusto2/leetcode-solution/tree/main/problems/3146.%20Permutation%20Difference%20between%20Two%20Strings) | Easy |
 
