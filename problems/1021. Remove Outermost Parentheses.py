@@ -16,14 +16,14 @@ class Solution:
         count = 0
         result = []
 
-        for i in s:
-            if i == "(":
+        for char in s:
+            if char == "(":
                 if count > 0:
-                    result.append(i)
+                    result.append(char)
                 count += 1
-            elif i == ")":
+            elif char == ")":
                 count -= 1
                 if count > 0:
-                    result.append(i)
+                    result.append(char)
 
         return "".join(result)
