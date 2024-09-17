@@ -7,5 +7,3 @@ class Solution:
                 count += 1
 
         return count
-    
-# O(n*m) | O(n*m)
