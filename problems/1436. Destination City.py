@@ -8,6 +8,3 @@ class Solution:
             city_destintion.add(d)
 
         return list(city_destintion - city_start)[0]
-    
-
-# O(n) | O(n)
