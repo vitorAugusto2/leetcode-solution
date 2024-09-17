@@ -12,5 +12,3 @@ class Solution:
                 chairs -= 1
         
         return max_chairs
-    
-# O(n) | O(1)
