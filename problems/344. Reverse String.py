@@ -14,5 +14,3 @@ class Solution:
             p2 -= 1
 
         return "".join(s)
-    
-# O(n) | O(1)
