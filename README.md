@@ -23,6 +23,7 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 1021 | [Remove Outermost Parentheses](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1021.%20Remove%20Outermost%20Parentheses.py) | O(n) | O(n) | Easy |
 | 1108 | [Defanging an IP Address](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1108.%20Defanging%20an%20IP%20Address.py) | O(n) | O(n) | Easy |
 | 1221 | [Split a String in Balanced Strings](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1221.%20Split%20a%20String%20in%20Balanced%20Strings.py) | O(n) | O(1) | Easy |
+| 1374 | [Generate a String With Characters That Have Odd Counts]() | O(1) | O(1) | Easy |
 | 1436 | [Destination City](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1436.%20Destination%20City.py) | O(n) | O(n) | Easy |
 | 1528 | [Shuffle String](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1528.%20Shuffle%20String.py) | O(n log n) | O(n)| Easy | 
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.py) | O(n) | O(1) | Easy
@@ -36,6 +37,7 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 1816 | [Truncate Sentence](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1816.%20Truncate%20Sentence.py) | O(n) | O(n) | Easy |
 | 1832 | [Check if the Sentence Is Pangram](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram.py) | O(n) | O(1) | Easy |
 | 1859 | [Sorting the Sentence](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1859.%20Sorting%20the%20Sentence.py) | O(n) | O(n) | Easy |
+| 1941 | [Check if All Characters Have Equal Number of Occurrences]() | O(n) | O(n) | Easy |
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word.py) | O(n * m) | O(n * m) | Easy |
 | 2000 | [Reverse Prefix of Word](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2000.%20Reverse%20Prefix%20of%20Word.py) | O(n) | O(n) | Easy |
 | 2011 | [Final Value of Varible After Performing Operations](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2011.%20Final%20Value%20of%20Varible%20After%20Performing%20Operations.py) | O(n) | O(n) | Easy |
@@ -45,6 +47,7 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 2315 | [Count Asterisks](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2315.%20Count%20Asterisks.py) | O(n) | O(1) | Easy |
 | 2418 | [Sort the People](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2418.%20Sort%20the%20People.py) | O(n log n) | O(n)| Easy | 
 | 2710 | [Remove Trailing Zeros From a String](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2710.%20Remove%20Trailing%20Zeros%20From%20a%20String.py) | O(n) | O(n) | Easy |
+| 2716 | [Minimize String Length]() | O(n) | O(n) | Easy | 
 | 2744 | [Find Maximum Number of String Pairs](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2744.%20Find%20Maximum%20Number%20of%20String%20Pairs.py) | O(n² * m) | O(m) | Easy |
 | 2810 | [Faulty Keyboard](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2810.%20Faulty%20Keyboard.py) | O(n²) | O(n) | Easy |
 | 2828 | [Check if a String Is an Acronym of Words](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2828.%20Check%20if%20a%20String%20Is%20an%20Acronym%20of%20Words.py) | O(n) | O(1) | Easy |
