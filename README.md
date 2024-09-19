@@ -17,12 +17,14 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 |------|-------|------|-------|------------|
 | 344  | [Reverse String](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/344.%20Reverse%20String.py) | O(n) | O(1) | Easy |
 | 557  | [Reverse Words in a String III](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/557.%20Reverse%20Words%20in%20a%20String%20III.py) | O(n) | O(n) | Easy |
+| 657 | [Robot Return to Origin]() | O(n) | O(1) | Easy |
 | 709  | [To Lower Case](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/709.%20To%20Lower%20Case.py) | O(n) | O(n) | Easy |
 | 771  | [Jewels and Stoneshttps](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/771.%20Jewels%20and%20Stones.py) | O(n) | O(n) | Easy |
 | 804  | [Unique Morse Code Words](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/804.%20Unique%20Morse%20Code%20Words.py) | O(n*k) | O(n*k) | Easy |
 | 1021 | [Remove Outermost Parentheses](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1021.%20Remove%20Outermost%20Parentheses.py) | O(n) | O(n) | Easy |
 | 1108 | [Defanging an IP Address](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1108.%20Defanging%20an%20IP%20Address.py) | O(n) | O(n) | Easy |
 | 1221 | [Split a String in Balanced Strings](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1221.%20Split%20a%20String%20in%20Balanced%20Strings.py) | O(n) | O(1) | Easy |
+| 1332 | [Remove Palindromic Subsequences]() | O(1) | O(1) | Easy |
 | 1374 | [Generate a String With Characters That Have Odd Counts]() | O(1) | O(1) | Easy |
 | 1436 | [Destination City](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1436.%20Destination%20City.py) | O(n) | O(n) | Easy |
 | 1528 | [Shuffle String](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1528.%20Shuffle%20String.py) | O(n log n) | O(n)| Easy | 
@@ -39,6 +41,7 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 1859 | [Sorting the Sentence](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1859.%20Sorting%20the%20Sentence.py) | O(n) | O(n) | Easy |
 | 1941 | [Check if All Characters Have Equal Number of Occurrences]() | O(n) | O(n) | Easy |
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word.py) | O(n * m) | O(n * m) | Easy |
+| 1974 | [Minimum Time to Type Word Using Special Typewriter]() | O(n) | O(1) | Easy | 
 | 2000 | [Reverse Prefix of Word](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2000.%20Reverse%20Prefix%20of%20Word.py) | O(n) | O(n) | Easy |
 | 2011 | [Final Value of Varible After Performing Operations](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2011.%20Final%20Value%20of%20Varible%20After%20Performing%20Operations.py) | O(n) | O(n) | Easy |
 | 2108 | [Find First Palindromic String in the Array](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2108.%20Find%20First%20Palindromic%20String%20in%20the%20Array.py) | O(k * m) | O(m) | Easy |
