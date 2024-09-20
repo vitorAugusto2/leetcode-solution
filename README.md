@@ -10,6 +10,15 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 ## Algorithms
 
 * [String](https://github.com/vitorAugusto2/leetcode-solution/tree/main?tab=readme-ov-file#string)
+* [Array]()
+  
+### Array
+|  #   | Title | Time | Space | Difficulty | 
+|------|-------|------|-------|------------|
+| 1512 | [Number of Good Pairs]() | O(n^2) | O(n) | Easy |
+| 1920 | [Build Array from Permutation]() | O(n) | O(n) | Easy |
+| 1929 | [Concatenation of Array]() | O(n) | O(2n) | Easy |
+| 3190 | [Find Minimum Operations to Make All Elements Divisible by Three]() | O(n) | O(1) | Easy |
 
 ### String
 
