@@ -10,15 +10,16 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 ## Algorithms
 
 * [String](https://github.com/vitorAugusto2/leetcode-solution/tree/main?tab=readme-ov-file#string)
-* [Array]()
+* [Array](https://github.com/vitorAugusto2/leetcode-solution/tree/main?tab=readme-ov-file#array)
   
 ### Array
+
 |  #   | Title | Time | Space | Difficulty | 
 |------|-------|------|-------|------------|
-| 1512 | [Number of Good Pairs]() | O(n^2) | O(n) | Easy |
-| 1920 | [Build Array from Permutation]() | O(n) | O(n) | Easy |
-| 1929 | [Concatenation of Array]() | O(n) | O(2n) | Easy |
-| 3190 | [Find Minimum Operations to Make All Elements Divisible by Three]() | O(n) | O(1) | Easy |
+| 1512 | [Number of Good Pairs](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1512.%20Number%20of%20Good%20Pairs.py) | O(n^2) | O(n) | Easy |
+| 1920 | [Build Array from Permutation](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1920.%20Build%20Array%20from%20Permutation.py) | O(n) | O(n) | Easy |
+| 1929 | [Concatenation of Array](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1929.%20Concatenation%20of%20Array.py) | O(n) | O(2n) | Easy |
+| 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/3190.%20Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three.py) | O(n) | O(1) | Easy |
 
 ### String
 
