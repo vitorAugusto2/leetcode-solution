@@ -17,12 +17,12 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 |  #   | Title | Time | Space | Difficulty | 
 |------|-------|------|-------|------------|
 | 1512 | [Number of Good Pairs](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1512.%20Number%20of%20Good%20Pairs.py) | O(n^2) | O(n) | Easy |
-| 1470 | [Shuffle the Array]() | O(n) | O(n) |
-| 1672 | [Richest Customer Wealth]() | O(n) | O(1) |
+| 1470 | [Shuffle the Array](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1470.%20Shuffle%20the%20Array.py) | O(n) | O(n) |
+| 1672 | [Richest Customer Wealth](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1672.%20Richest%20Customer%20Wealth.py) | O(n) | O(1) |
 | 1920 | [Build Array from Permutation](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1920.%20Build%20Array%20from%20Permutation.py) | O(n) | O(n) | Easy |
 | 1929 | [Concatenation of Array](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1929.%20Concatenation%20of%20Array.py) | O(n) | O(2n) | Easy |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/3190.%20Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three.py) | O(n) | O(1) | Easy |
-| 3289 | [The Two Sneaky Numbers of Digitville]() | O(n) | O(n) |
+| 3289 | [The Two Sneaky Numbers of Digitville](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/3289.%20The%20Two%20Sneaky%20Numbers%20of%20Digitville.py) | O(n) | O(n) |
 
 ### String
 
