@@ -5,7 +5,7 @@
 This repository contains my Python solutions to LeetCode problems, covering various topics in data structures and algorithms. Each solution consists of a .py file 
 containing the source code with their approach, including an analysis of time and space complexity.
 
-Feel free to explore the solutions and check out my [LeetCode Profile](https://leetcode.com/u/vitorAugusto2/)
+Feel free to explore the solutions and check out my [LeetCode Profile](https://leetcode.com/u/vitorAugusto2/) and my algorithm study [page](http://vitoralp.notion.site).
 
 ## Algorithms
 
