@@ -17,6 +17,7 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 |  #   | Title | Time | Space | Difficulty | 
 |------|-------|------|-------|------------|
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.py) | O(n²) | O(n) | Easy |
+| 1389 | [Create Target Array in the Given Order]() | O(n²) | O(n) | Easy |
 | 1480 | [Running Sum of 1d Array](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1480.%20Running%20Sum%20of%201d%20Array.py) | O(n) | O(n) | Easy |
 | 1512 | [Number of Good Pairs](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1512.%20Number%20of%20Good%20Pairs.py) | O(n²) | O(n) | Easy |
 | 1431 | [Kids With the Greatest Number of Candies](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.py) | O(n²) | O(n) | Easy |
@@ -30,8 +31,10 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 2574 | [Left and Right Sum Differences](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2574.%20Left%20and%20Right%20Sum%20Differences.py) | O(n) | O(n) | Easy |
 | 2798 |  [Number of Employees Who Met the Target](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2798.%20Number%20of%20Employees%20Who%20Met%20the%20Target.py) | O(n) | O(n) | Easy |
 | 2824 | [Count Pairs Whose Sum is Less than Target](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2824.%20Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target.py) | O(n log n) | O(n) | Easy |
+| 3065 | [Minimum Operations to Exceed Threshold Value I]() | O(n) | O(1) | Easy |
 | 3162 | [Find the Number of Good Pairs I](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/3162.%20Find%20the%20Number%20of%20Good%20Pairs%20I.py) | O(n * m) | O(1) | Easy |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/3190.%20Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three.py) | O(n) | O(1) | Easy |
+| 3285 | [Find Indices of Stable Mountains]() | O(n) | O(n) | Easy |
 | 3289 | [The Two Sneaky Numbers of Digitville](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/3289.%20The%20Two%20Sneaky%20Numbers%20of%20Digitville.py) | O(n) | O(n) | Easy |
 
 ### String
