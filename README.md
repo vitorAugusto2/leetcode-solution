@@ -18,6 +18,7 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 |------|-------|------|-------|------------|
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.py) | O(n²) | O(n) | Easy |
 | 1389 | [Create Target Array in the Given Order]() | O(n²) | O(n) | Easy |
+| 1464 | [Maximum Product of Two Elements in an Array]() | O(n²) | O(1) | Easy |
 | 1480 | [Running Sum of 1d Array](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1480.%20Running%20Sum%20of%201d%20Array.py) | O(n) | O(n) | Easy |
 | 1512 | [Number of Good Pairs](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1512.%20Number%20of%20Good%20Pairs.py) | O(n²) | O(n) | Easy |
 | 1431 | [Kids With the Greatest Number of Candies](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.py) | O(n²) | O(n) | Easy |
@@ -25,12 +26,15 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1637.%20Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points.py) | O(n log n) | O(n) | Easy |
 | 1672 | [Richest Customer Wealth](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1672.%20Richest%20Customer%20Wealth.py) | O(n) | O(1) | Easy |
 | 1920 | [Build Array from Permutation](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1920.%20Build%20Array%20from%20Permutation.py) | O(n) | O(n) | Easy |
-| 1929 | [Concatenation of Array](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1929.%20Concatenation%20of%20Array.py) | O(n) | O(2n) | Easy |
+| 1929 | [Concatenation of Array](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1929.%20Concatenation%20of%20Array.py) | O(n) | O(n) | Easy |
+| 2006 | [Count Number of Pairs With Absolute Difference K]() | O(n²) | O(n) | Easy |
 | 2037 | [Minimum Number of Moves to Seat Everyone](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2037.%20Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone.py) | O(n log n) | O(n) | Easy |
 | 2373 | [Largest Local Values in a Matrix](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2373.%20Largest%20Local%20Values%20in%20a%20Matrix.py) | O(n²) | O(n²) | Easy |
+| 2535 | [Difference Between Element Sum and Digit Sum of an Array]() | O(n²) | O(n) | Easy |
 | 2574 | [Left and Right Sum Differences](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2574.%20Left%20and%20Right%20Sum%20Differences.py) | O(n) | O(n) | Easy |
 | 2798 |  [Number of Employees Who Met the Target](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2798.%20Number%20of%20Employees%20Who%20Met%20the%20Target.py) | O(n) | O(n) | Easy |
 | 2824 | [Count Pairs Whose Sum is Less than Target](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2824.%20Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target.py) | O(n log n) | O(n) | Easy |
+| 2956 | [Find Common Elements Between Two Arrays]() | O(n + m) | O(n + m) | Easy | 
 | 3065 | [Minimum Operations to Exceed Threshold Value I]() | O(n) | O(1) | Easy |
 | 3162 | [Find the Number of Good Pairs I](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/3162.%20Find%20the%20Number%20of%20Good%20Pairs%20I.py) | O(n * m) | O(1) | Easy |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/3190.%20Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three.py) | O(n) | O(1) | Easy |
