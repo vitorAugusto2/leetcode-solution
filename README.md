@@ -37,6 +37,7 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 2824 | [Count Pairs Whose Sum is Less than Target](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2824.%20Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target.py) | O(n log n) | O(n) | Easy |
 | 2956 | [Find Common Elements Between Two Arrays](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2956.%20Find%20Common%20Elements%20Between%20Two%20Arrays.py) | O(n + m) | O(n + m) | Easy | 
 | 3065 | [Minimum Operations to Exceed Threshold Value I](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/3065.%20Minimum%20Operations%20to%20Exceed%20Threshold%20Value%20I.py) | O(n) | O(1) | Easy |
+| 3131 | [Find the Integer Added to Array I]() | O(n) | O(1) | Easy |
 | 3162 | [Find the Number of Good Pairs I](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/3162.%20Find%20the%20Number%20of%20Good%20Pairs%20I.py) | O(n * m) | O(1) | Easy |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/3190.%20Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three.py) | O(n) | O(1) | Easy |
 | 3285 | [Find Indices of Stable Mountains](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/3285.%20Find%20Indices%20of%20Stable%20Mountains.py) | O(n) | O(n) | Easy |
@@ -83,6 +84,7 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 2185 | [Counting Words With a Given Prefix](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2185.%20Counting%20Words%20With%20a%20Given%20Prefix.py) | O(n) | O(1) | Easy |
 | 2315 | [Count Asterisks](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2315.%20Count%20Asterisks.py) | O(n) | O(1) | Easy |
 | 2418 | [Sort the People](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2418.%20Sort%20the%20People.py) | O(n log n) | O(n)| Easy | 
+| 2586 | [Count the Number of Vowel Strings in Range]() | O(n) | O(n) | Easy |
 | 2710 | [Remove Trailing Zeros From a String](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2710.%20Remove%20Trailing%20Zeros%20From%20a%20String.py) | O(n) | O(n) | Easy |
 | 2716 | [Minimize String Length](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2716.%20Minimize%20String%20Length.py) | O(n) | O(n) | Easy | 
 | 2744 | [Find Maximum Number of String Pairs](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2744.%20Find%20Maximum%20Number%20of%20String%20Pairs.py) | O(n² * m) | O(m) | Easy |
