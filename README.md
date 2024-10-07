@@ -25,7 +25,7 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 1470 | [Shuffle the Array](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1470.%20Shuffle%20the%20Array.py) | O(n) | O(n) | Easy |
 | 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1637.%20Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points.py) | O(n log n) | O(n) | Easy |
 | 1672 | [Richest Customer Wealth](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1672.%20Richest%20Customer%20Wealth.py) | O(n) | O(1) | Easy |
-| 1732 | [Find the Highest Altitude]() | O(n) | O(n) | Easy |
+| 1732 | [Find the Highest Altitude](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1732.%20Find%20the%20Highest%20Altitude.py) | O(n) | O(n) | Easy |
 | 1920 | [Build Array from Permutation](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1920.%20Build%20Array%20from%20Permutation.py) | O(n) | O(n) | Easy |
 | 1929 | [Concatenation of Array](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1929.%20Concatenation%20of%20Array.py) | O(n) | O(n) | Easy |
 | 2006 | [Count Number of Pairs With Absolute Difference K](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.py) | O(n²) | O(n) | Easy |
@@ -41,7 +41,7 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/3190.%20Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three.py) | O(n) | O(1) | Easy |
 | 3285 | [Find Indices of Stable Mountains](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/3285.%20Find%20Indices%20of%20Stable%20Mountains.py) | O(n) | O(n) | Easy |
 | 3289 | [The Two Sneaky Numbers of Digitville](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/3289.%20The%20Two%20Sneaky%20Numbers%20of%20Digitville.py) | O(n) | O(n) | Easy |
-| 3300 | [Minimum Element After Replacement With Digit Sum]() | O(n * m) | O(1) | Easy |
+| 3300 | [Minimum Element After Replacement With Digit Sum](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/3300.%20Minimum%20Element%20After%20Replacement%20With%20Digit%20Sum.py) | O(n * m) | O(1) | Easy |
 
 ### String
 
@@ -53,7 +53,7 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 709  | [To Lower Case](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/709.%20To%20Lower%20Case.py) | O(n) | O(n) | Easy |
 | 771  | [Jewels and Stoneshttps](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/771.%20Jewels%20and%20Stones.py) | O(n) | O(n) | Easy |
 | 804  | [Unique Morse Code Words](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/804.%20Unique%20Morse%20Code%20Words.py) | O(n*k) | O(n*k) | Easy |
-| 884 | [Uncommon Words from Two Sentences]() | O(n + m) | O(n + m + k) | Easy |
+| 884 | [Uncommon Words from Two Sentences](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/884.%20Uncommon%20Words%20from%20Two%20Sentences.py) | O(n + m) | O(n + m + k) | Easy |
 | 1021 | [Remove Outermost Parentheses](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1021.%20Remove%20Outermost%20Parentheses.py) | O(n) | O(n) | Easy |
 | 1108 | [Defanging an IP Address](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1108.%20Defanging%20an%20IP%20Address.py) | O(n) | O(n) | Easy |
 | 1221 | [Split a String in Balanced Strings](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1221.%20Split%20a%20String%20in%20Balanced%20Strings.py) | O(n) | O(1) | Easy |
@@ -73,7 +73,7 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 1832 | [Check if the Sentence Is Pangram](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram.py) | O(n) | O(1) | Easy |
 | 1859 | [Sorting the Sentence](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1859.%20Sorting%20the%20Sentence.py) | O(n) | O(n) | Easy |
 | 1941 | [Check if All Characters Have Equal Number of Occurrences](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1941.%20Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences.py) | O(n) | O(n) | Easy |
-| 1945 | [Sum of Digits of String After Convert]() | O(n²) | O(n) | Easy |
+| 1945 | [Sum of Digits of String After Convert](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1945.%20Sum%20of%20Digits%20of%20String%20After%20Convert.py) | O(n²) | O(n) | Easy |
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word.py) | O(n * m) | O(n * m) | Easy |
 | 1974 | [Minimum Time to Type Word Using Special Typewriter](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1974.%20Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter.py) | O(n) | O(1) | Easy | 
 | 2000 | [Reverse Prefix of Word](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2000.%20Reverse%20Prefix%20of%20Word.py) | O(n) | O(n) | Easy |
@@ -86,7 +86,7 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 2710 | [Remove Trailing Zeros From a String](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2710.%20Remove%20Trailing%20Zeros%20From%20a%20String.py) | O(n) | O(n) | Easy |
 | 2716 | [Minimize String Length](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2716.%20Minimize%20String%20Length.py) | O(n) | O(n) | Easy | 
 | 2744 | [Find Maximum Number of String Pairs](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2744.%20Find%20Maximum%20Number%20of%20String%20Pairs.py) | O(n² * m) | O(m) | Easy |
-| 2788 | [Split Strings by Separator]() | O(n * m) | O(n * m) | Easy |
+| 2788 | [Split Strings by Separator](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2788.%20Split%20Strings%20by%20Separator.py) | O(n * m) | O(n * m) | Easy |
 | 2810 | [Faulty Keyboard](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2810.%20Faulty%20Keyboard.py) | O(n²) | O(n) | Easy |
 | 2828 | [Check if a String Is an Acronym of Words](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2828.%20Check%20if%20a%20String%20Is%20an%20Acronym%20of%20Words.py) | O(n) | O(1) | Easy |
 | 2942 | [Find Words Containing Character](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2942.%20Find%20Words%20Containing%20Character.py) | O(n) | O(n) | Easy |
