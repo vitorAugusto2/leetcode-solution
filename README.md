@@ -82,6 +82,7 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 2710 | [Remove Trailing Zeros From a String](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2710.%20Remove%20Trailing%20Zeros%20From%20a%20String.py) | O(n) | O(n) | Easy |
 | 2716 | [Minimize String Length](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2716.%20Minimize%20String%20Length.py) | O(n) | O(n) | Easy | 
 | 2744 | [Find Maximum Number of String Pairs](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2744.%20Find%20Maximum%20Number%20of%20String%20Pairs.py) | O(n² * m) | O(m) | Easy |
+| 2788 | [Split Strings by Separator]() | O(n * m) | O(n * m) | Easy |
 | 2810 | [Faulty Keyboard](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2810.%20Faulty%20Keyboard.py) | O(n²) | O(n) | Easy |
 | 2828 | [Check if a String Is an Acronym of Words](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2828.%20Check%20if%20a%20String%20Is%20an%20Acronym%20of%20Words.py) | O(n) | O(1) | Easy |
 | 2942 | [Find Words Containing Character](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2942.%20Find%20Words%20Containing%20Character.py) | O(n) | O(n) | Easy |
