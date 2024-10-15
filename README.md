@@ -74,6 +74,7 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 1832 | [Check if the Sentence Is Pangram](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram.py) | O(n) | O(1) | Easy |
 | 1859 | [Sorting the Sentence](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1859.%20Sorting%20the%20Sentence.py) | O(n) | O(n) | Easy |
 | 1876 | [Substrings of Size Three with Distinct Characters]() | O(n) | O(1) | Easy |
+| 1935 | [Maximum Number of Words You Can Type]() | O(n * m) | O(n) | Easy |
 | 1941 | [Check if All Characters Have Equal Number of Occurrences](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1941.%20Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences.py) | O(n) | O(n) | Easy |
 | 1945 | [Sum of Digits of String After Convert](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1945.%20Sum%20of%20Digits%20of%20String%20After%20Convert.py) | O(n²) | O(n) | Easy |
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word.py) | O(n * m) | O(n * m) | Easy |
