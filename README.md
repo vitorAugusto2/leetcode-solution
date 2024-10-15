@@ -73,8 +73,8 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 1816 | [Truncate Sentence](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1816.%20Truncate%20Sentence.py) | O(n) | O(n) | Easy |
 | 1832 | [Check if the Sentence Is Pangram](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram.py) | O(n) | O(1) | Easy |
 | 1859 | [Sorting the Sentence](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1859.%20Sorting%20the%20Sentence.py) | O(n) | O(n) | Easy |
-| 1876 | [Substrings of Size Three with Distinct Characters]() | O(n) | O(1) | Easy |
-| 1935 | [Maximum Number of Words You Can Type]() | O(n * m) | O(n) | Easy |
+| 1876 | [Substrings of Size Three with Distinct Characters](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1876.%20Substrings%20of%20Size%20Three%20with%20Distinct%20Characters.py) | O(n) | O(1) | Easy |
+| 1935 | [Maximum Number of Words You Can Type](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1935.%20Maximum%20Number%20of%20Words%20You%20Can%20Type.py) | O(n * m) | O(n) | Easy |
 | 1941 | [Check if All Characters Have Equal Number of Occurrences](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1941.%20Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences.py) | O(n) | O(n) | Easy |
 | 1945 | [Sum of Digits of String After Convert](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1945.%20Sum%20of%20Digits%20of%20String%20After%20Convert.py) | O(n²) | O(n) | Easy |
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word.py) | O(n * m) | O(n * m) | Easy |
@@ -85,7 +85,7 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 2114 | [Maximum Number of Words Found in Sentences](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.py) | O(n) | O(n) | Easy |
 | 2185 | [Counting Words With a Given Prefix](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2185.%20Counting%20Words%20With%20a%20Given%20Prefix.py) | O(n) | O(1) | Easy |
 | 2315 | [Count Asterisks](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2315.%20Count%20Asterisks.py) | O(n) | O(1) | Easy |
-| 2351 | [First Letter to Appear Twice]() | O(n) | O(n) | Easy |
+| 2351 | [First Letter to Appear Twice](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2351.%20First%20Letter%20to%20Appear%20Twice.py) | O(n) | O(n) | Easy |
 | 2418 | [Sort the People](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2418.%20Sort%20the%20People.py) | O(n log n) | O(n)| Easy | 
 | 2586 | [Count the Number of Vowel Strings in Range](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2586.%20Count%20the%20Number%20of%20Vowel%20Strings%20in%20Range.py) | O(n) | O(n) | Easy |
 | 2710 | [Remove Trailing Zeros From a String](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2710.%20Remove%20Trailing%20Zeros%20From%20a%20String.py) | O(n) | O(n) | Easy |
