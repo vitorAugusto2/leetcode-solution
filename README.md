@@ -84,9 +84,11 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 2108 | [Find First Palindromic String in the Array](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2108.%20Find%20First%20Palindromic%20String%20in%20the%20Array.py) | O(k * m) | O(m) | Easy |
 | 2114 | [Maximum Number of Words Found in Sentences](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.py) | O(n) | O(n) | Easy |
 | 2185 | [Counting Words With a Given Prefix](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2185.%20Counting%20Words%20With%20a%20Given%20Prefix.py) | O(n) | O(1) | Easy |
+| 2283 | [Check if Number Has Equal Digit Count and Digit Value]() | O(n²) | O(1) | Easy |
 | 2315 | [Count Asterisks](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2315.%20Count%20Asterisks.py) | O(n) | O(1) | Easy |
 | 2351 | [First Letter to Appear Twice](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2351.%20First%20Letter%20to%20Appear%20Twice.py) | O(n) | O(n) | Easy |
 | 2418 | [Sort the People](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2418.%20Sort%20the%20People.py) | O(n log n) | O(n)| Easy | 
+| 2496 | [Maximum Value of a String in an Array]() | O(n) | O(1) | Easy |
 | 2586 | [Count the Number of Vowel Strings in Range](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2586.%20Count%20the%20Number%20of%20Vowel%20Strings%20in%20Range.py) | O(n) | O(n) | Easy |
 | 2710 | [Remove Trailing Zeros From a String](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2710.%20Remove%20Trailing%20Zeros%20From%20a%20String.py) | O(n) | O(n) | Easy |
 | 2716 | [Minimize String Length](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2716.%20Minimize%20String%20Length.py) | O(n) | O(n) | Easy | 
