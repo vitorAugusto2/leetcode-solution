@@ -1,4 +1,4 @@
-*![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # LeetCode Solutions
 This repository contains my Python solutions to LeetCode problems, covering various topics in data structures and algorithms. Each solution includes a `.py` file with the source code and an analysis of time and space complexity.
@@ -79,10 +79,10 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 1974 | [Minimum Time to Type Word Using Special Typewriter](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1974.%20Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter.py) | O(n) | O(1) | Easy | 
 | 2000 | [Reverse Prefix of Word](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2000.%20Reverse%20Prefix%20of%20Word.py) | O(n) | O(n) | Easy |
 | 2011 | [Final Value of Varible After Performing Operations](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2011.%20Final%20Value%20of%20Varible%20After%20Performing%20Operations.py) | O(n) | O(n) | Easy |
-| 2085 | [Count Common Words With One Occurrence]() | O(n + m) | O(n + m) | Easy |
+| 2085 | [Count Common Words With One Occurrence](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2085.%20Count%20Common%20Words%20With%20One%20Occurrence.py) | O(n + m) | O(n + m) | Easy |
 | 2108 | [Find First Palindromic String in the Array](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2108.%20Find%20First%20Palindromic%20String%20in%20the%20Array.py) | O(k * m) | O(m) | Easy |
 | 2114 | [Maximum Number of Words Found in Sentences](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.py) | O(n) | O(n) | Easy |
-| 2124 | [Check if All A's Appears Before All B's]() | O(n) | O(1) | Easy |
+| 2124 | [Check if All A's Appears Before All B's](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2124.%20Check%20if%20All%20A's%20Appears%20Before%20All%20B's.py) | O(n) | O(1) | Easy |
 | 2185 | [Counting Words With a Given Prefix](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2185.%20Counting%20Words%20With%20a%20Given%20Prefix.py) | O(n) | O(1) | Easy |
 | 2283 | [Check if Number Has Equal Digit Count and Digit Value](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2283.%20Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value.py) | O(n²) | O(1) | Easy |
 | 2315 | [Count Asterisks](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2315.%20Count%20Asterisks.py) | O(n) | O(1) | Easy |
