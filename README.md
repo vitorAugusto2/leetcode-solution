@@ -1,9 +1,7 @@
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+*![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # LeetCode Solutions
-
-This repository contains my Python solutions to LeetCode problems, covering various topics in data structures and algorithms. Each solution consists of a .py file 
-containing the source code with their approach, including an analysis of time and space complexity.
+This repository contains my Python solutions to LeetCode problems, covering various topics in data structures and algorithms. Each solution includes a `.py` file with the source code and an analysis of time and space complexity.
 
 Feel free to explore the solutions and check out my [LeetCode Profile](https://leetcode.com/u/vitorAugusto2/) and my algorithm study [page](http://vitoralp.notion.site).
 
@@ -104,3 +102,4 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 3146 | [Permutation Difference between Two Strings](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/3146.%20Permutation%20Difference%20between%20Two%20Strings.py) | O(n) | O(n) | Easy |
 | 3168 | [Minimum Number of Chairs in a Waiting Room](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/3168.%20Minimum%20Number%20of%20Chairs%20in%20a%20Waiting%20Room.py) | O(n) | O(1) | Easy |
 | 3280 | [Convert Date to Binary](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/3280.%20Convert%20Date%20to%20Binary.py) | O(n) | O(n) | Easy |
+*
