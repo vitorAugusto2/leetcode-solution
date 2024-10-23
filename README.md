@@ -53,6 +53,7 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 771  | [Jewels and Stoneshttps](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/771.%20Jewels%20and%20Stones.py) | O(n) | O(n) | Easy |
 | 804  | [Unique Morse Code Words](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/804.%20Unique%20Morse%20Code%20Words.py) | O(n*k) | O(n*k) | Easy |
 | 884 | [Uncommon Words from Two Sentences](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/884.%20Uncommon%20Words%20from%20Two%20Sentences.py) | O(n + m) | O(n + m + k) | Easy |
+| 944 | [Delete Columns to Make Sorted]() | O(n + m) | O(n + m) | Easy |
 | 1021 | [Remove Outermost Parentheses](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1021.%20Remove%20Outermost%20Parentheses.py) | O(n) | O(n) | Easy |
 | 1108 | [Defanging an IP Address](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1108.%20Defanging%20an%20IP%20Address.py) | O(n) | O(n) | Easy |
 | 1221 | [Split a String in Balanced Strings](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1221.%20Split%20a%20String%20in%20Balanced%20Strings.py) | O(n) | O(1) | Easy |
