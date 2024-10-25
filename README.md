@@ -21,6 +21,8 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 1512 | [Number of Good Pairs](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1512.%20Number%20of%20Good%20Pairs.py) | O(n²) | O(n) | Easy |
 | 1431 | [Kids With the Greatest Number of Candies](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.py) | O(n²) | O(n) | Easy |
 | 1470 | [Shuffle the Array](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1470.%20Shuffle%20the%20Array.py) | O(n) | O(n) | Easy |
+| 1572 | [Matrix Diagonal Sum]() | O(n) | O(1) | Easy |
+| 1588 | [Sum of All Odd Length Subarrays]() | O(n²) | O(1) | Easy |
 | 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1637.%20Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points.py) | O(n log n) | O(n) | Easy |
 | 1672 | [Richest Customer Wealth](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1672.%20Richest%20Customer%20Wealth.py) | O(n) | O(1) | Easy |
 | 1732 | [Find the Highest Altitude](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1732.%20Find%20the%20Highest%20Altitude.py) | O(n) | O(n) | Easy |
