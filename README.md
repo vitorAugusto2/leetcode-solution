@@ -58,7 +58,7 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 942  | [DI String Match](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/942.%20DI%20String%20Match.py) | O(n) | O(n) | Easy |
 | 944  | [Delete Columns to Make Sorted](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/944.%20Delete%20Columns%20to%20Make%20Sorted.py) | O(n + m) | O(n + m) | Easy |
 | 1021 | [Remove Outermost Parentheses](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1021.%20Remove%20Outermost%20Parentheses.py) | O(n) | O(n) | Easy |
-| 1047 | [Remove All Adjacent Duplicates In String] | O(n) | O(n) | Easy |
+| 1047 | [Remove All Adjacent Duplicates In String](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py) | O(n) | O(n) | Easy |
 | 1108 | [Defanging an IP Address](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1108.%20Defanging%20an%20IP%20Address.py) | O(n) | O(n) | Easy |
 | 1221 | [Split a String in Balanced Strings](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1221.%20Split%20a%20String%20in%20Balanced%20Strings.py) | O(n) | O(1) | Easy |
 | 1332 | [Remove Palindromic Subsequences](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1332.%20Remove%20Palindromic%20Subsequences.py) | O(1) | O(1) | Easy |
@@ -84,7 +84,7 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 1974 | [Minimum Time to Type Word Using Special Typewriter](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1974.%20Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter.py) | O(n) | O(1) | Easy | 
 | 2000 | [Reverse Prefix of Word](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2000.%20Reverse%20Prefix%20of%20Word.py) | O(n) | O(n) | Easy |
 | 2011 | [Final Value of Varible After Performing Operations](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2011.%20Final%20Value%20of%20Varible%20After%20Performing%20Operations.py) | O(n) | O(n) | Easy |
-| 2042 | [Check if Numbers Are Ascending in a Sentence]() | O(n) | O(n) | Easy |
+| 2042 | [Check if Numbers Are Ascending in a Sentence](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2042.%20Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence.py) | O(n) | O(n) | Easy |
 | 2085 | [Count Common Words With One Occurrence](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2085.%20Count%20Common%20Words%20With%20One%20Occurrence.py) | O(n + m) | O(n + m) | Easy |
 | 2108 | [Find First Palindromic String in the Array](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2108.%20Find%20First%20Palindromic%20String%20in%20the%20Array.py) | O(k * m) | O(m) | Easy |
 | 2114 | [Maximum Number of Words Found in Sentences](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.py) | O(n) | O(n) | Easy |
