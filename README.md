@@ -108,5 +108,5 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 3110 | [Score of a String](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/3110.%20Score%20of%20a%20String.py) | O(n) | O(n) | Easy |
 | 3146 | [Permutation Difference between Two Strings](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/3146.%20Permutation%20Difference%20between%20Two%20Strings.py) | O(n) | O(n) | Easy |
 | 3168 | [Minimum Number of Chairs in a Waiting Room](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/3168.%20Minimum%20Number%20of%20Chairs%20in%20a%20Waiting%20Room.py) | O(n) | O(1) | Easy |
-| 3210 | [Find the Encrypted String]() | O(n) | O(n) | Easy |
+| 3210 | [Find the Encrypted String](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/3210.%20Find%20the%20Encrypted%20String.py) | O(n) | O(n) | Easy |
 | 3280 | [Convert Date to Binary](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/3280.%20Convert%20Date%20to%20Binary.py) | O(n) | O(n) | Easy |
