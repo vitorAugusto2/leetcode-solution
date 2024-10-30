@@ -54,7 +54,7 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 709  | [To Lower Case](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/709.%20To%20Lower%20Case.py) | O(n) | O(n) | Easy |
 | 771  | [Jewels and Stoneshttps](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/771.%20Jewels%20and%20Stones.py) | O(n) | O(n) | Easy |
 | 804  | [Unique Morse Code Words](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/804.%20Unique%20Morse%20Code%20Words.py) | O(n*k) | O(n*k) | Easy |
-| 824 | [Goat Latin]() | O(n) | O(n) | Easy |
+| 824  | [Goat Latin](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/824.%20Goat%20Latin.py) | O(n) | O(n) | Easy |
 | 884  | [Uncommon Words from Two Sentences](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/884.%20Uncommon%20Words%20from%20Two%20Sentences.py) | O(n + m) | O(n + m + k) | Easy |
 | 942  | [DI String Match](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/942.%20DI%20String%20Match.py) | O(n) | O(n) | Easy |
 | 944  | [Delete Columns to Make Sorted](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/944.%20Delete%20Columns%20to%20Make%20Sorted.py) | O(n + m) | O(n + m) | Easy |
@@ -91,7 +91,7 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 2114 | [Maximum Number of Words Found in Sentences](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.py) | O(n) | O(n) | Easy |
 | 2124 | [Check if All A's Appears Before All B's](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2124.%20Check%20if%20All%20A's%20Appears%20Before%20All%20B's.py) | O(n) | O(1) | Easy |
 | 2185 | [Counting Words With a Given Prefix](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2185.%20Counting%20Words%20With%20a%20Given%20Prefix.py) | O(n) | O(1) | Easy |
-| 2264 | [Largest 3-Same-Digit Number in String]() | O(n) | O(1) | Easy |
+| 2264 | [Largest 3-Same-Digit Number in String](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2264.%20Largest%203-Same-Digit%20Number%20in%20String.py) | O(n) | O(1) | Easy |
 | 2283 | [Check if Number Has Equal Digit Count and Digit Value](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2283.%20Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value.py) | O(n²) | O(1) | Easy |
 | 2309 | [Greatest English Letter in Upper and Lower Case](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2309.%20Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case.py) | O(n) | O(n) | Easy |
 | 2315 | [Count Asterisks](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2315.%20Count%20Asterisks.py) | O(n) | O(1) | Easy |
