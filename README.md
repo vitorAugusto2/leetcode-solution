@@ -67,7 +67,7 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 1436 | [Destination City](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1436.%20Destination%20City.py) | O(n) | O(n) | Easy |
 | 1528 | [Shuffle String](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1528.%20Shuffle%20String.py) | O(n log n) | O(n)| Easy | 
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.py) | O(n) | O(1) | Easy
-| 1624 | [Largest Substring Between Two Equal Characters]() | O(n) | O(n) | Easy
+| 1624 | [Largest Substring Between Two Equal Characters](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1624.%20Largest%20Substring%20Between%20Two%20Equal%20Characters.py) | O(n) | O(n) | Easy
 | 1662 | [Check If Two String Arrays are Equivalent](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.py) | O(n) | O(n) | Easy |
 | 1678 | [Goal Parser Interpretation](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1678.%20Goal%20Parser%20Interpretation.py) | O(n) | O(n) | Easy |
 | 1684 | [Count the Number of Consistent Strings](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1684.%20Count%20the%20Number%20of%20Consistent%20Strings.py) | O(n * m) | O(k + m) | Easy | 
@@ -91,7 +91,7 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 2108 | [Find First Palindromic String in the Array](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2108.%20Find%20First%20Palindromic%20String%20in%20the%20Array.py) | O(k * m) | O(m) | Easy |
 | 2114 | [Maximum Number of Words Found in Sentences](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.py) | O(n) | O(n) | Easy |
 | 2124 | [Check if All A's Appears Before All B's](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2124.%20Check%20if%20All%20A's%20Appears%20Before%20All%20B's.py) | O(n) | O(1) | Easy |
-| 2138 | [Divide a String Into Groups of Size k]() | O(n) | O(n) | Easy |
+| 2138 | [Divide a String Into Groups of Size k](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2138.%20Divide%20a%20String%20Into%20Groups%20of%20Size%20k.py) | O(n) | O(n) | Easy |
 | 2185 | [Counting Words With a Given Prefix](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2185.%20Counting%20Words%20With%20a%20Given%20Prefix.py) | O(n) | O(1) | Easy |
 | 2264 | [Largest 3-Same-Digit Number in String](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2264.%20Largest%203-Same-Digit%20Number%20in%20String.py) | O(n) | O(1) | Easy |
 | 2283 | [Check if Number Has Equal Digit Count and Digit Value](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/2283.%20Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value.py) | O(n²) | O(1) | Easy |
