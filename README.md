@@ -48,6 +48,7 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 
 |  #   | Title | Time | Space | Difficulty | 
 |------|-------|------|-------|------------|
+| 13   | [Roman to Integer]() | O(n) | O(n) | Easy |
 | 344  | [Reverse String](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/344.%20Reverse%20String.py) | O(n) | O(1) | Easy |
 | 557  | [Reverse Words in a String III](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/557.%20Reverse%20Words%20in%20a%20String%20III.py) | O(n) | O(n) | Easy |
 | 657  | [Robot Return to Origin](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/657.%20Robot%20Return%20to%20Origin.py) | O(n) | O(1) | Easy |
@@ -56,6 +57,7 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 804  | [Unique Morse Code Words](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/804.%20Unique%20Morse%20Code%20Words.py) | O(n*k) | O(n*k) | Easy |
 | 824  | [Goat Latin](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/824.%20Goat%20Latin.py) | O(n) | O(n) | Easy |
 | 884  | [Uncommon Words from Two Sentences](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/884.%20Uncommon%20Words%20from%20Two%20Sentences.py) | O(n + m) | O(n + m + k) | Easy |
+| 917  | [Reverse Only Letters]() | O(n) | O(n) | Easy |
 | 942  | [DI String Match](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/942.%20DI%20String%20Match.py) | O(n) | O(n) | Easy |
 | 944  | [Delete Columns to Make Sorted](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/944.%20Delete%20Columns%20to%20Make%20Sorted.py) | O(n + m) | O(n + m) | Easy |
 | 1021 | [Remove Outermost Parentheses](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1021.%20Remove%20Outermost%20Parentheses.py) | O(n) | O(n) | Easy |
