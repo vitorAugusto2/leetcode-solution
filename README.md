@@ -49,10 +49,10 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | #     | Title                                                                                                                                                                                                                 | Time | Space        | Difficulty | 
 |-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|--------------|------------|
 | 13    | [Roman to Integer](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/13.%20Roman%20to%20Integer.py)                                                                                               | O(n) | O(n)         | Easy |
-| 20    | [Valid Parentheses]() | O(n) | O(n)         | Easy |
-| 28    | [Find the Index of the First Occurrence in a String]() | O(n*m) | O(1)         | Easy |
-| 58    | [Length of Last Word]() | O(n) | O(n) | Easy |
-| 67    | [Add Binary]() | O(n) | O(n) | Easy |
+| 20    | [Valid Parentheses](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/20.%20Valid%20Parentheses.py)                                                                                               | O(n) | O(n)         | Easy |
+| 28    | [Find the Index of the First Occurrence in a String](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.py)             | O(n*m) | O(1)         | Easy |
+| 58    | [Length of Last Word](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/58.%20Length%20of%20Last%20Word.py)                                                                                       | O(n) | O(n) | Easy |
+| 67    | [Add Binary](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/67.%20Add%20Binary.py)                                                                                                             | O(n) | O(n) | Easy |
 | 344   | [Reverse String](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/344.%20Reverse%20String.py)                                                                                                    | O(n) | O(1)         | Easy |
 | 557   | [Reverse Words in a String III](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/557.%20Reverse%20Words%20in%20a%20String%20III.py)                                                              | O(n) | O(n)         | Easy |
 | 657   | [Robot Return to Origin](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/657.%20Robot%20Return%20to%20Origin.py)                                                                                | O(n) | O(1)         | Easy |
