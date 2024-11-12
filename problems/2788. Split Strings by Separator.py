@@ -9,3 +9,4 @@ class Solution:
                     list_split.append(word) 
         
         return list_split
+
