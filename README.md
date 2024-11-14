@@ -58,8 +58,8 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 344  | [Reverse String](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/344.%20Reverse%20String.py)                                                                                                   | O(n) | O(1)         | Easy |
 | 345  | [Reverse Vowels of a String](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/345.%20Reverse%20Vowels%20of%20a%20String.py) | O(n) | O(n)         | Easy |
 | 383  | [Ransom Note](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/383.%20Ransom%20Note.py) | O(n) | O(n)         | Easy |
-| 387  | [First Unique Character in a String]() | O(n) | O(n)         | Easy | 
-| 389  | [Find the Difference]() | O(n) | O(1)         | Easy | 
+| 387  | [First Unique Character in a String](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/387.%20First%20Unique%20Character%20in%20a%20String.py) | O(n) | O(n)         | Easy | 
+| 389  | [Find the Difference](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/389.%20Find%20the%20Difference.py) | O(n) | O(1)         | Easy | 
 | 557  | [Reverse Words in a String III](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/557.%20Reverse%20Words%20in%20a%20String%20III.py)                                                             | O(n) | O(n)         | Easy |
 | 657  | [Robot Return to Origin](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/657.%20Robot%20Return%20to%20Origin.py)                                                                               | O(n) | O(1)         | Easy |
 | 709  | [To Lower Case](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/709.%20To%20Lower%20Case.py)                                                                                                   | O(n) | O(n)         | Easy |
