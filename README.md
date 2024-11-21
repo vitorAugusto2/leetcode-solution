@@ -70,7 +70,7 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 771   | [Jewels and Stoneshttps](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/771.%20Jewels%20and%20Stones.py)                                                                                       | O(n) | O(n)         | Easy |
 | 796   | [Rotate String](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/796.%20Rotate%20String.py) | O(n) | O(n) | Easy |
 | 804   | [Unique Morse Code Words](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/804.%20Unique%20Morse%20Code%20Words.py)                                                                              | O(n*k) | O(n*k)       | Easy |
-| 819   | [Most Common Word]() | O(n) | O(n) | Easy |
+| 819   | [Most Common Word](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/819.%20Most%20Common%20Word.py) | O(n) | O(n) | Easy |
 | 824   | [Goat Latin](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/824.%20Goat%20Latin.py)                                                                                                            | O(n) | O(n)         | Easy |
 | 884   | [Uncommon Words from Two Sentences](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/884.%20Uncommon%20Words%20from%20Two%20Sentences.py)                                                        | O(n + m) | O(n + m + k) | Easy |
 | 917   | [Reverse Only Letters](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/917.%20Reverse%20Only%20Letters.py)                                                                                      | O(n) | O(n)         | Easy |
