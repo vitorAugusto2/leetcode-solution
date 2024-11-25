@@ -82,10 +82,10 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 1221  | [Split a String in Balanced Strings](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1221.%20Split%20a%20String%20in%20Balanced%20Strings.py)                                                   | O(n)       | O(1)         | Easy       |
 | 1332  | [Remove Palindromic Subsequences](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1332.%20Remove%20Palindromic%20Subsequences.py)                                                               | O(1)       | O(1)         | Easy       |
 | 1374  | [Generate a String With Characters That Have Odd Counts](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1374.%20Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts.py)     | O(1)       | O(1)         | Easy       |
-| 1408  | [String Matching in an Array]() |            |              | Easy       |
+| 1408  | [String Matching in an Array]() |           O(n²)          |  O(n)            | Easy |
 | 1422  | [Maximum Score After Splitting a String]() | O(n)       | O(1)         | Easy |
 | 1436  | [Destination City](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1436.%20Destination%20City.py)                                                                                               | O(n)       | O(n)         | Easy       |
-| 1446  | [Consecutive Characters]() |   O(n²)          |  O(n)            | Easy |
+| 1446  | [Consecutive Characters]() |   O(n)          |  O(n)            | Easy |
 | 1496  | [Path Crossing]() | O(n)       | O(n)         | Easy |
 | 1507  | [Reformat Date](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1507.%20Reformat%20Date.py)                                                                                                     | O(n)       | O(n)         | Easy       |
 | 1528  | [Shuffle String](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1528.%20Shuffle%20String.py)                                                                                                   | O(n log n) | O(n)         | Easy       | 
