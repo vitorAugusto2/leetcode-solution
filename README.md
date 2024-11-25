@@ -85,7 +85,7 @@ Feel free to explore the solutions and check out my [LeetCode Profile](https://l
 | 1408  | [String Matching in an Array]() |            |              | Easy       |
 | 1422  | [Maximum Score After Splitting a String]() | O(n)       | O(1)         | Easy |
 | 1436  | [Destination City](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1436.%20Destination%20City.py)                                                                                               | O(n)       | O(n)         | Easy       |
-| 1446  | [Consecutive Characters]() |            |              | Easy |
+| 1446  | [Consecutive Characters]() |   O(n²)          |  O(n)            | Easy |
 | 1496  | [Path Crossing]() | O(n)       | O(n)         | Easy |
 | 1507  | [Reformat Date](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1507.%20Reformat%20Date.py)                                                                                                     | O(n)       | O(n)         | Easy       |
 | 1528  | [Shuffle String](https://github.com/vitorAugusto2/leetcode-solution/blob/main/problems/1528.%20Shuffle%20String.py)                                                                                                   | O(n log n) | O(n)         | Easy       | 
