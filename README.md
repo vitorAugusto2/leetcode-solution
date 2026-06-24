@@ -1,13 +1,15 @@
 # LeetCode Solutions
 
-This repository contains my solutions to LeetCode problems in **Python** and **SQL**, covering topics such as data structures, algorithms, and database queries.
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Each Python solution includes a `.py` file with the source code and an analysis of time and space complexity. SQL solutions are organized in `.sql` files and focus on query logic, joins, aggregations, window functions, and other database concepts.
+My solutions to LeetCode problems in **Python** and **SQL**.
 
-Feel free to explore the solutions and check out my [LeetCode Profile](https://leetcode.com/u/vitorAugusto2/) and my algorithm study [page](http://vitoralp.notion.site).
+Python solutions cover topics such as data structures and algorithms, and include code with time/space complexity analysis
+SQL problems focus on query logic, joins, aggregations, window functions, and other database concepts.
 
-Feel free to explore the solutions and check out my [LeetCode Profile](https://leetcode.com/u/vitorAugusto2/) and my algorithm study [page](http://vitoralp.notion.site).
+Explore the solutions and check out my [LeetCode Profile](https://leetcode.com/u/vitorAugusto2/) and [algorithm study notes](http://vitoralp.notion.site).
 
-### Programming Language
-* [Python](https://github.com/vitorAugusto2/leetcode-solution/tree/main/python)
-* [SQL](https://github.com/vitorAugusto2/leetcode-solution/tree/main/sql)
+### Solutions
+
+- 🐍 [Python Solutions](https://github.com/vitorAugusto2/leetcode-solution/tree/main/python)
+- 🐘 [PostgreSQL Solutions](https://github.com/vitorAugusto2/leetcode-solution/tree/main/sql)
