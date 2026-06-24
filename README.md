@@ -7,7 +7,7 @@ My solutions to LeetCode problems in **Python** and **SQL**.
 Python solutions cover topics such as data structures and algorithms, and include code with time/space complexity analysis
 SQL problems focus on query logic, joins, aggregations, window functions, and other database concepts.
 
-Explore the solutions and check out my [LeetCode Profile](https://leetcode.com/u/vitorAugusto2/) and [algorithm study notes]([http://vitoralp.notion.site](https://vitoralp.notion.site/leetcode-solutions?source=copy_link)).
+Explore the solutions and check out my [LeetCode Profile](https://leetcode.com/u/vitorAugusto2/) and [algorithm study notes](https://vitoralp.notion.site/leetcode-solutions?source=copy_link).
 
 ### Solutions
 
