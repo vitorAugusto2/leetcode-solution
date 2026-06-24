@@ -14,8 +14,3 @@ class Solution:
                 i -= 1
 
         return "".join(reversed(ans))
-
-
-sol = Solution()
-print(sol.freqAlphabets("10#11#12"))
-# print(sol.freqAlphabets("1326#"))
