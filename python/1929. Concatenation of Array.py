@@ -1,7 +1,8 @@
 class Solution:
     def getConcatenation(self, nums: List[int]) -> List[int]:
-        ans = nums[:] * 2
-        return ans
+        return nums + nums
+
+# Time Complexity(space|time): O(n) | O(n) 
     
 """
 Another Approach
@@ -9,8 +10,15 @@ Another Approach
 
 class Solution:
     def getConcatenation(self, nums: List[int]) -> List[int]:
-        return nums + nums
+        n = len(nums)
+        ans = [0] * (2 * n)
+
+        for i in range(n):
+            ans[i] = nums[i]
+            ans[i + n] = nums[i]
         
-* Time complexity: O(n)
+        return ans
+
+# Time Complexity(space|time): O(n) | O(n) 
 """
     
