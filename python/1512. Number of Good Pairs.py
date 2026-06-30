@@ -1,29 +1,29 @@
 class Solution:
     def numIdenticalPairs(self, nums: List[int]) -> int:
-        count = 0 
-        
+        ans = 0
+
         for i in range(len(nums)):
-            for j in range(i+1, len(nums)):
+            for j in range(i + 1, len(nums)):
                 if nums[i] == nums[j] and i < j:
-                    count += 1
-        
-        return count
-     
-    
+                    ans += 1
+
+        return ans
+
+# Time Complexity (time|space): O(n^2) | O(1)
+
 """
 Another Approach
 ----------------
 
 class Solution:
     def numIdenticalPairs(self, nums: List[int]) -> int:
-        freq = Counter(nums)
-        count = 0
-        
-        for v in freq.values():
-            count += (v * (v - 1)) // 2  
+        frequency = Counter(nums)
+        ans = 0
 
-        return count
+        for n in frequency.values():
+            ans += n * (n - 1) // 2
 
-* Time complexity: O(n)
+        return ans
+
+# Time Complexity (time|space): O(n) | O(n)
 """
-
