@@ -1,10 +1,12 @@
 class Solution:
     def getSneakyNumbers(self, nums: List[int]) -> List[int]:
-        freq = Counter(nums) 
-        sneaky_nums = [] 
-        
-        for key, value in freq.items(): 
-            if value > 1:
-                sneaky_nums.append(key) 
-                
-        return sneaky_nums
+        ans = []
+        count_num = Counter(nums)
+
+        for key, value in count_num.items():
+            if value == 2:
+                ans.append(key)
+
+        return ans
+
+# Time Complexity (time|space): O(n) | O(n)
